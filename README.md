@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Goals is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by northzone) and added to the network as a stub for full-pipeline profiling.
-- https://goals.co
+Goals (goals.co) is a gameplay‑first football game platform that offers a free‑to‑play experience with real‑time matches, player progression, and community features. The site provides game info, news, developer updates, and links to companion apps, Discord, and support resources.
+
+**Areas:** Company · Sports · Gaming · Football · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://goals.co)
+- [Documentation](https://playgoals.com/en)
+- [Getting started](https://playgoals.com/en/first-steps)
+- [Support](https://playgoals.com/en/contact)
+- [Blog](https://playgoals.com/en/news)
+- [Privacy policy](https://playgoals.com/en/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/goals-co/](https://apis.io/providers/goals-co/).
